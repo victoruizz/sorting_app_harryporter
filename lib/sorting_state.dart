@@ -1,0 +1,1 @@
+enum SortingState {idle, sorting, result}
